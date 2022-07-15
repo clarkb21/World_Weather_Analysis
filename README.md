@@ -21,8 +21,15 @@
 - MSU Bootcamp Spot Module 6: https://courses.bootcampspot.com/courses/2508/pages/6-dot-0-1-using-apis-to-visualize-weather-data?module_item_id=635195
 
 ## Results
+- Heatmaps created a visual for users to identify the most preferred destinations. 
+- Pop up markers created another visual with valuable information to allow users to make the most informed decisions about their vacations.
+- Travel routes could also be requested in the app using the Google Directions API and inputing desired cities. 
 
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/104038813/179317824-9ad28834-5468-48d9-9957-0f430b1e95fa.png)
 
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/104038813/179317837-5b7d978c-efc7-4c84-97f2-79f0ffa7bbdf.png)
+
+![Uploading WeatherPy_travel_map.png…]()
 
 
 
