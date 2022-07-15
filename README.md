@@ -16,9 +16,9 @@
   3. Creating a travel itinerary map using the Google Directions API
 
 ## Resources
-- Data Source: city_data.csv; ride_data.csv
+- Data Source: Open Weather Map API; Google Maps Places and Directions API
 - Software: Python 3.7.6, Conda 4.13.0, Jupyter Notebook 6.4.8, Pandas 1.4.3
-- MSU Bootcamp Spot Module 5: https://courses.bootcampspot.com/courses/2508/pages/5-dot-0-1-visualizing-ride-sharing-data?module_item_id=634904
+- MSU Bootcamp Spot Module 6: https://courses.bootcampspot.com/courses/2508/pages/6-dot-0-1-using-apis-to-visualize-weather-data?module_item_id=635195
 
 ## Results
 
