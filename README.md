@@ -29,10 +29,9 @@
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/104038813/179317837-5b7d978c-efc7-4c84-97f2-79f0ffa7bbdf.png)
 
-![Uploading WeatherPy_travel_map.png…]()
-
-
-
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/104038813/179318546-0aed1984-d395-438c-b4d1-d485a412e9b9.png)
 
 ## Summary
-
+- Using API's to request information can be useful when needing to collect a lot of information without having the data already stored in another format, such as a CSV file. 
+- Allowing users to make inputs gives them more freedom in selecting areas based on their temperature preferences. 
+- Heatmaps and other visuals are appealing and more user friendly. 
